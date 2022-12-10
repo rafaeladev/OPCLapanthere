@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -741,6 +741,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width:100%;
 }
 
 .portfolio-row {
@@ -784,7 +785,7 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #46599a!important;
+    background: #4b61a6!important;
     color: #FFFFFF!important;
 }
 
@@ -807,14 +808,6 @@ h4 {
 .icon-dark-slate-blue {
     color: #364577!important;
     border-color: #364577!important;
-}
-
-.bg-dots-bg {
-    background-image: url("img/dots-bg.png");
-}
-
-.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
 }
 
 .bg-banniere {
