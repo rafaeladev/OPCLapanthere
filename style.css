@@ -780,12 +780,17 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #364577;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #4b61a6!important;
+    color: #FFFFFF!important;
+}
+
+.btn-atomic-tangerine:focus {
+    background: #647dc7!important;
     color: #FFFFFF!important;
 }
 
